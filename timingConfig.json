@@ -1,0 +1,52 @@
+{
+  "timeLine": 40,
+  "version" : 0.1,
+  "playLists":[
+    {
+      "src": "https://www.videvo.net/videvo_files/converted/2015_04/preview/Ocean_Waves_slow_motion_videvo.mov44965.webm",
+      "title": "It_s_our_ocean",
+      "type": "video/webm",
+      "category": 3
+    },{
+      "src": "https://www.videvo.net/videvo_files/converted/2014_07/preview/IT_Sizilien_San_Vito_Lo_Capo_Steinstrand_Mond_4k.mov54542.webm",
+      "title": "Sergey",
+      "type": "video/webm",
+      "category": 2
+    },{
+      "src": "https://www.videvo.net/videvo_files/converted/2014_10/preview/Rocky_Coastline_3__Videvo.mov65840.webm",
+      "title": "Ocean2",
+      "type": "video/webm",
+      "category": 2
+    },{
+      "src": "https://www.videvo.net/videvo_files/converted/2017_08/preview/170724_37_Flyingoversurf.mp422204.webm",
+      "title": "Ocean_3",
+      "type": "video/webm",
+      "category": 2
+    },{
+      "src": "http://94.250.248.196/files/fon/spring3.mp4",
+      "title": "Video1",
+      "type": "video/mp4",
+      "category": 3
+    },{
+      "src": "http://94.250.248.196/files/fon/spring1.mp4",
+      "title": "Video3",
+      "type": "video/mp4",
+      "category": 3
+    }
+  ],
+  "adverst":[ 
+    {   
+      "src": "http://94.250.248.196/files/rec/poolgym.mp4",
+      "title": "CU",
+      "type": "video/mp4",      
+      "category": 2
+    },{
+      "src": "http://94.250.248.196/files/rec/revolution.mp4",
+      "title": "It's our",
+      "type": "video/mp4",
+      "category": 3
+    }
+  ],
+  "patners":[ 
+  ]
+}
