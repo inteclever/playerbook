@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cordova-android": "^8.1.0",
     "cordova-plugin-background-download": "0.0.2",
     "cordova-plugin-downloader": "0.0.4",
